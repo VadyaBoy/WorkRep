@@ -1,0 +1,10 @@
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\3\Tech3\Tech3\bin\Debug\Tech3.exe.config
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\3\Tech3\Tech3\bin\Debug\Tech3.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\3\Tech3\Tech3\bin\Debug\Tech3.pdb
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\3\Tech3\Tech3\obj\Debug\Tech3.csprojAssemblyReference.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\3\Tech3\Tech3\obj\Debug\Tech3.Form1.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\3\Tech3\Tech3\obj\Debug\Tech3.Properties.Resources.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\3\Tech3\Tech3\obj\Debug\Tech3.csproj.GenerateResource.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\3\Tech3\Tech3\obj\Debug\Tech3.csproj.CoreCompileInputs.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\3\Tech3\Tech3\obj\Debug\Tech3.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\3\Tech3\Tech3\obj\Debug\Tech3.pdb

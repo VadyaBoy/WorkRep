@@ -1,0 +1,10 @@
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\4\Obr4\Obr4\bin\Debug\Obr4.exe.config
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\4\Obr4\Obr4\bin\Debug\Obr4.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\4\Obr4\Obr4\bin\Debug\Obr4.pdb
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\4\Obr4\Obr4\obj\Debug\Obr4.csprojAssemblyReference.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\4\Obr4\Obr4\obj\Debug\Obr4.fm.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\4\Obr4\Obr4\obj\Debug\Obr4.Properties.Resources.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\4\Obr4\Obr4\obj\Debug\Obr4.csproj.GenerateResource.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\4\Obr4\Obr4\obj\Debug\Obr4.csproj.CoreCompileInputs.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\4\Obr4\Obr4\obj\Debug\Obr4.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\4\Obr4\Obr4\obj\Debug\Obr4.pdb

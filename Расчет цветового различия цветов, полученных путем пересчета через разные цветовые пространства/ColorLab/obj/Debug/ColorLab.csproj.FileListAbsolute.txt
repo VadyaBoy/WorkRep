@@ -1,0 +1,30 @@
+C:\Users\myrka\Desktop\ColorLab\ColorLab\bin\Debug\ColorLab.exe.config
+C:\Users\myrka\Desktop\ColorLab\ColorLab\bin\Debug\ColorLab.exe
+C:\Users\myrka\Desktop\ColorLab\ColorLab\bin\Debug\ColorLab.pdb
+C:\Users\myrka\Desktop\ColorLab\ColorLab\obj\Debug\ColorLab.csprojAssemblyReference.cache
+C:\Users\myrka\Desktop\ColorLab\ColorLab\obj\Debug\ColorLab.MainForm.resources
+C:\Users\myrka\Desktop\ColorLab\ColorLab\obj\Debug\ColorLab.Properties.Resources.resources
+C:\Users\myrka\Desktop\ColorLab\ColorLab\obj\Debug\ColorLab.csproj.GenerateResource.cache
+C:\Users\myrka\Desktop\ColorLab\ColorLab\obj\Debug\ColorLab.csproj.CoreCompileInputs.cache
+C:\Users\myrka\Desktop\ColorLab\ColorLab\obj\Debug\ColorLab.exe
+C:\Users\myrka\Desktop\ColorLab\ColorLab\obj\Debug\ColorLab.pdb
+E:\Учёба\Магистратура\2 семестр\Обработка изображений\Лабораторная работа №1\ColorLab\ColorLab\bin\Debug\ColorLab.exe.config
+E:\Учёба\Магистратура\2 семестр\Обработка изображений\Лабораторная работа №1\ColorLab\ColorLab\bin\Debug\ColorLab.exe
+E:\Учёба\Магистратура\2 семестр\Обработка изображений\Лабораторная работа №1\ColorLab\ColorLab\bin\Debug\ColorLab.pdb
+E:\Учёба\Магистратура\2 семестр\Обработка изображений\Лабораторная работа №1\ColorLab\ColorLab\obj\Debug\ColorLab.csprojAssemblyReference.cache
+E:\Учёба\Магистратура\2 семестр\Обработка изображений\Лабораторная работа №1\ColorLab\ColorLab\obj\Debug\ColorLab.MainForm.resources
+E:\Учёба\Магистратура\2 семестр\Обработка изображений\Лабораторная работа №1\ColorLab\ColorLab\obj\Debug\ColorLab.Properties.Resources.resources
+E:\Учёба\Магистратура\2 семестр\Обработка изображений\Лабораторная работа №1\ColorLab\ColorLab\obj\Debug\ColorLab.csproj.GenerateResource.cache
+E:\Учёба\Магистратура\2 семестр\Обработка изображений\Лабораторная работа №1\ColorLab\ColorLab\obj\Debug\ColorLab.csproj.CoreCompileInputs.cache
+E:\Учёба\Магистратура\2 семестр\Обработка изображений\Лабораторная работа №1\ColorLab\ColorLab\obj\Debug\ColorLab.exe
+E:\Учёба\Магистратура\2 семестр\Обработка изображений\Лабораторная работа №1\ColorLab\ColorLab\obj\Debug\ColorLab.pdb
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\1\ColorLab\ColorLab\bin\Debug\ColorLab.exe.config
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\1\ColorLab\ColorLab\bin\Debug\ColorLab.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\1\ColorLab\ColorLab\bin\Debug\ColorLab.pdb
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\1\ColorLab\ColorLab\obj\Debug\ColorLab.csprojAssemblyReference.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\1\ColorLab\ColorLab\obj\Debug\ColorLab.MainForm.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\1\ColorLab\ColorLab\obj\Debug\ColorLab.Properties.Resources.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\1\ColorLab\ColorLab\obj\Debug\ColorLab.csproj.GenerateResource.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\1\ColorLab\ColorLab\obj\Debug\ColorLab.csproj.CoreCompileInputs.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\1\ColorLab\ColorLab\obj\Debug\ColorLab.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\1\ColorLab\ColorLab\obj\Debug\ColorLab.pdb

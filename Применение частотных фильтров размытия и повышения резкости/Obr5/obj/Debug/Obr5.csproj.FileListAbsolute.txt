@@ -1,0 +1,17 @@
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\5\Obr5\Obr5\bin\Debug\Obr5.exe.config
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\5\Obr5\Obr5\bin\Debug\Obr5.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\5\Obr5\Obr5\bin\Debug\Obr5.pdb
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\5\Obr5\Obr5\obj\Debug\Obr5.csprojAssemblyReference.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\5\Obr5\Obr5\obj\Debug\Obr5.fm.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\5\Obr5\Obr5\obj\Debug\Obr5.Properties.Resources.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\5\Obr5\Obr5\obj\Debug\Obr5.csproj.GenerateResource.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\5\Obr5\Obr5\obj\Debug\Obr5.csproj.CoreCompileInputs.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\5\Obr5\Obr5\obj\Debug\Obr5.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\5\Obr5\Obr5\obj\Debug\Obr5.pdb
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\5\Obr5\Obr5\bin\Debug\AForge.dll
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\5\Obr5\Obr5\bin\Debug\AForge.Imaging.dll
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\5\Obr5\Obr5\bin\Debug\AForge.Math.dll
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\5\Obr5\Obr5\bin\Debug\AForge.xml
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\5\Obr5\Obr5\bin\Debug\AForge.Imaging.xml
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\5\Obr5\Obr5\bin\Debug\AForge.Math.xml
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\5\Obr5\Obr5\obj\Debug\Obr5.csproj.CopyComplete

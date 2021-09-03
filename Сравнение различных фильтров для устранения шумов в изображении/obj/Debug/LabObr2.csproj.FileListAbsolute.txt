@@ -1,0 +1,17 @@
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\Лаба 2\LabObr2\bin\Debug\LabObr2.exe.config
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\Лаба 2\LabObr2\bin\Debug\LabObr2.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\Лаба 2\LabObr2\bin\Debug\LabObr2.pdb
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\Лаба 2\LabObr2\bin\Debug\AForge.dll
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\Лаба 2\LabObr2\bin\Debug\AForge.Imaging.dll
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\Лаба 2\LabObr2\bin\Debug\AForge.Math.dll
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\Лаба 2\LabObr2\bin\Debug\AForge.xml
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\Лаба 2\LabObr2\bin\Debug\AForge.Imaging.xml
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\Лаба 2\LabObr2\bin\Debug\AForge.Math.xml
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\Лаба 2\LabObr2\obj\Debug\LabObr2.csprojAssemblyReference.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\Лаба 2\LabObr2\obj\Debug\LabObr2.fm.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\Лаба 2\LabObr2\obj\Debug\LabObr2.Properties.Resources.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\Лаба 2\LabObr2\obj\Debug\LabObr2.csproj.GenerateResource.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\Лаба 2\LabObr2\obj\Debug\LabObr2.csproj.CoreCompileInputs.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\Лаба 2\LabObr2\obj\Debug\LabObr2.csproj.CopyComplete
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\Лаба 2\LabObr2\obj\Debug\LabObr2.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\Лаба 2\LabObr2\obj\Debug\LabObr2.pdb

@@ -1,0 +1,10 @@
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\obj\Debug\labForoCompare.Properties.Resources.resources
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\obj\Debug\labForoCompare.csproj.GenerateResource.cache
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\obj\Debug\labForoCompare.csproj.CoreCompileInputs.cache
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\bin\Debug\labForoCompare.exe.config
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\bin\Debug\labForoCompare.exe
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\bin\Debug\labForoCompare.pdb
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\obj\Debug\labForoCompare.exe
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\obj\Debug\labForoCompare.pdb
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\obj\Debug\labForoCompare.csprojAssemblyReference.cache
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\obj\Debug\labForoCompare.MainForm.resources

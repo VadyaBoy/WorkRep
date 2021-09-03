@@ -1,0 +1,10 @@
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\3\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\3\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\3\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\3\Lab3\Lab3\obj\Debug\Lab3.fm.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\3\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\3\Lab3\Lab3\obj\Debug\Lab3.pdb

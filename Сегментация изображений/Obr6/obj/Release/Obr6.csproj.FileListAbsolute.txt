@@ -1,0 +1,10 @@
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\6\Obr6\Obr6\bin\Release\Obr6.exe.config
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\6\Obr6\Obr6\bin\Release\Obr6.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\6\Obr6\Obr6\bin\Release\Obr6.pdb
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\6\Obr6\Obr6\obj\Release\Obr6.csprojAssemblyReference.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\6\Obr6\Obr6\obj\Release\Obr6.fm.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\6\Obr6\Obr6\obj\Release\Obr6.Properties.Resources.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\6\Obr6\Obr6\obj\Release\Obr6.csproj.GenerateResource.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\6\Obr6\Obr6\obj\Release\Obr6.csproj.CoreCompileInputs.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\6\Obr6\Obr6\obj\Release\Obr6.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Обработка изображений\6\Obr6\Obr6\obj\Release\Obr6.pdb

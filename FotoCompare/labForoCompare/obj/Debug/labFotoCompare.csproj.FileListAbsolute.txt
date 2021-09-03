@@ -1,0 +1,20 @@
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\bin\Debug\labForoCompare.exe.config
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\bin\Debug\labForoCompare.exe
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\bin\Debug\labForoCompare.pdb
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\obj\Debug\labForoCompare.MainForm.resources
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\obj\Debug\labForoCompare.Properties.Resources.resources
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\obj\Debug\labFotoCompare.csproj.GenerateResource.cache
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\obj\Debug\labFotoCompare.csproj.CoreCompileInputs.cache
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\obj\Debug\labForoCompare.exe
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\obj\Debug\labForoCompare.pdb
+C:\Users\myrka\Desktop\FotoCompare\labForoCompare\obj\Debug\labFotoCompare.csprojAssemblyReference.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\2\FotoCompare\labForoCompare\bin\Debug\labForoCompare.exe.config
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\2\FotoCompare\labForoCompare\bin\Debug\labForoCompare.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\2\FotoCompare\labForoCompare\bin\Debug\labForoCompare.pdb
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\2\FotoCompare\labForoCompare\obj\Debug\labFotoCompare.csprojAssemblyReference.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\2\FotoCompare\labForoCompare\obj\Debug\labForoCompare.MainForm.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\2\FotoCompare\labForoCompare\obj\Debug\labForoCompare.Properties.Resources.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\2\FotoCompare\labForoCompare\obj\Debug\labFotoCompare.csproj.GenerateResource.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\2\FotoCompare\labForoCompare\obj\Debug\labFotoCompare.csproj.CoreCompileInputs.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\2\FotoCompare\labForoCompare\obj\Debug\labForoCompare.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\2\FotoCompare\labForoCompare\obj\Debug\labForoCompare.pdb

@@ -1,0 +1,10 @@
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\Лаба 4\LabTech4\bin\Debug\LabTech4.exe.config
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\Лаба 4\LabTech4\bin\Debug\LabTech4.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\Лаба 4\LabTech4\bin\Debug\LabTech4.pdb
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\Лаба 4\LabTech4\obj\Debug\LabTech4.csprojAssemblyReference.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\Лаба 4\LabTech4\obj\Debug\LabTech4.fm.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\Лаба 4\LabTech4\obj\Debug\LabTech4.Properties.Resources.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\Лаба 4\LabTech4\obj\Debug\LabTech4.csproj.GenerateResource.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\Лаба 4\LabTech4\obj\Debug\LabTech4.csproj.CoreCompileInputs.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\Лаба 4\LabTech4\obj\Debug\LabTech4.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\Лаба 4\LabTech4\obj\Debug\LabTech4.pdb

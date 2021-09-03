@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObrLab1", "ObrLab1\ObrLab1.csproj", "{4FD60A12-2233-4D59-B283-ACA28AF17259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FD60A12-2233-4D59-B283-ACA28AF17259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD60A12-2233-4D59-B283-ACA28AF17259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD60A12-2233-4D59-B283-ACA28AF17259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD60A12-2233-4D59-B283-ACA28AF17259}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37635D24-CB75-46E7-9ED5-A444067D7BF7}
+	EndGlobalSection
+EndGlobal

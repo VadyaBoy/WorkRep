@@ -1,0 +1,10 @@
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\4\Tech4\Tech4\bin\Debug\Tech4.exe.config
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\4\Tech4\Tech4\bin\Debug\Tech4.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\4\Tech4\Tech4\bin\Debug\Tech4.pdb
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\4\Tech4\Tech4\obj\Debug\Tech4.csprojAssemblyReference.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\4\Tech4\Tech4\obj\Debug\Tech4.fm.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\4\Tech4\Tech4\obj\Debug\Tech4.Properties.Resources.resources
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\4\Tech4\Tech4\obj\Debug\Tech4.csproj.GenerateResource.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\4\Tech4\Tech4\obj\Debug\Tech4.csproj.CoreCompileInputs.cache
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\4\Tech4\Tech4\obj\Debug\Tech4.exe
+C:\Users\treky\Desktop\Магистратура\Магистратура - 2 семестр\Техническое зрение\4\Tech4\Tech4\obj\Debug\Tech4.pdb
